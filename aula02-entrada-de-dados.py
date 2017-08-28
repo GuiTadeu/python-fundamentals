@@ -1,5 +1,5 @@
 print('PESQUISA')
-print('-------------------')
+print('--------------------')
 
 nome = input('\nDigite seu Nome: ')
 cpf = input('Digite seu CPF: ')
