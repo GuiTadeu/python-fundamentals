@@ -1,5 +1,5 @@
 print('EXÉRCITO ALISTAMENTO')
-print('------------------------')
+print('-----------------------')
 
 idade = float(input('Digite sua Idade: '))
 peso = float(input('Digite seu Peso: '))
