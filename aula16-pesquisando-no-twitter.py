@@ -11,12 +11,12 @@ import pprint
 # Transforma a Hash em porcentagem
 import urllib.parse
 # Consumer
-consumer_key = 'o4MQKS2CQin4Rl4QsCiU7fUVs'
-consumer_secret = 'W1z53xXfkw0w2IruS8yhaLt7mtiD9QJcPioj2Iw3tggoBRztUE'
+consumer_key = ''
+consumer_secret = ''
 
 # Token
-access_token = '738913391910195205-vDniBpj1YexCw4HMrboKrBf41ExGPbk'
-access_token_secret = 'pu9CGUnRpTed3xz8fIT8gyhoZSWScZMybwhM8ScdNhJnj'
+access_token = ''
+access_token_secret = ''
 
 # Perceba como as coisas se encaixam feito peças de Lego:
 consumer = oauth2.Consumer(consumer_key, consumer_secret)
