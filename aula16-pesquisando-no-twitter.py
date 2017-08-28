@@ -1,7 +1,7 @@
 # Requisição REST retorna JSON
 # Oauth, autenticação
 # O método abaixo serve para qualquer API que usa o Oauth
-# Só muda a url
+# Só muda a URL
 import oauth2
 import json
 
