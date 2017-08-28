@@ -1,6 +1,6 @@
 nomes = ['Guilherme', 'Gabi', 'Gabriel']
 
-# Laço FOR
+# Laço For 
 # Para cada nome, dentro de nomes me mostra o nome
 # Nome pode ser qualquer coisa, ele é um item
 for nome in nomes:
